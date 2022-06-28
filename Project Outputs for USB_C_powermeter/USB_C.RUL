@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: G:\My Drive\Privat\Uni\Semester_5\02_Product development\USB_C_powermeter\00_Altium\USB_C_Powermeter_final\USB_C.PcbDoc
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint|Scope=Board|Minimum=10.00
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm|Scope=Board|Minimum=6.89
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  >0.45mm|Scope=Board|Minimum=6.89
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=5.91
